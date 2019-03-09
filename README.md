@@ -14,3 +14,6 @@ Instructions for adding this repo:
 * Select the "Addons4Kodi Repository"
 
 ## Enjoy!
+<p align="center">
+  <img src="icon.png" width="350" title="Addons4Kodi Repository">
+</p>
