@@ -1,5 +1,5 @@
 # /r/Addons4Kodi Official Repository
-## Current Version: 2.0
+## Current Version: 2.1
 
 ## Repository addon
 
